@@ -1,0 +1,13 @@
+{
+  "appName": "helm",
+  "userGivenName": "helm",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "custom-diff/02-external-app/Chart.yaml",
+  "srcRepoURL": "https://github.com/Just4Being/gitops-cert-level-2-examples.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
