@@ -1,0 +1,11 @@
+{
+    "appName": "nginx",
+    "userGivenName": "nginx",
+    "destNamespace": "nginx",
+    "destServer": "https://kubernetes.default.svc",
+    "srcPath": "apps/nginx/overlays/testing",
+    "srcRepoURL": "https://github.com/Just4Being/Testing.git",
+    "srcTargetRevision": "",
+    "labels": null,
+    "annotations": null
+  }
