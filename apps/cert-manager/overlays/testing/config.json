@@ -1,0 +1,11 @@
+{
+    "appName": "cert-manager",
+    "userGivenName": "cert-manager",
+    "destNamespace": "cert-manager",
+    "destServer": "https://kubernetes.default.svc",
+    "srcPath": "apps/cert-manager/overlays/testing",
+    "srcRepoURL": "https://github.com/Just4Being/Testing.git",
+    "srcTargetRevision": "",
+    "labels": null,
+    "annotations": null
+  }
