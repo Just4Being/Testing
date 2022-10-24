@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: deploy/charts/cert-manager
-    repoURL: https://github.com/cert-manager/cert-manager/
+    repoURL: https://github.com/cert-manager/cert-manager.git
     targetRevision: HEAD
   destination:
     namespace: cert-manager
